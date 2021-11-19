@@ -1,5 +1,5 @@
-import React from 'react';
-import {View, Text, StyleSheet} from 'react-native';
+import React, {useEffect} from 'react';
+import {View, Text, Flatlist, Image, TouchableOpacity} from 'react-native';
 
 
 function Movies() {
